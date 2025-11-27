@@ -5,3 +5,6 @@ Based on these features, the algorithm classifies each trial into established al
 
 In parallel, this project implements an unsupervised learning module that clusters trajectories using PCA-reduced features and k-means, enabling data-driven identification of behavioral patterns. It includes an interactive Plotly viewer where clicking on any point reveals the full trajectory overlaid on the water maze, allowing intuitive exploration of clusters and behavioral differences.
 
+This software was developed by June Mitchell, Yadu Gopakumar and Luke King during the Python Applications for
+Neuroscience Research course, Université Paris Cité, 2025. © 2025 The contributors.
+Released under the MIT License.
